@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/johnmichaeldusal/static/css/main.40e059fc.css",
+    "main.js": "/johnmichaeldusal/static/js/main.16216ecf.js",
+    "static/js/787.512dd3f2.chunk.js": "/johnmichaeldusal/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/johnmichaeldusal/index.html",
+    "main.40e059fc.css.map": "/johnmichaeldusal/static/css/main.40e059fc.css.map",
+    "main.16216ecf.js.map": "/johnmichaeldusal/static/js/main.16216ecf.js.map",
+    "787.512dd3f2.chunk.js.map": "/johnmichaeldusal/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e059fc.css",
+    "static/js/main.16216ecf.js"
+  ]
+}
