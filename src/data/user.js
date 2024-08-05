@@ -47,7 +47,7 @@ const INFO = {
 		{
 			title: "Kauswagan Media",
 			description:
-				"A content management system that includes news, stories, images, and videos from all barangays in Kauswagan Municipality.",
+				"Develop a content management system that features news, stories, images, and videos from all barangays in the Kauswagan Municipality.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://bitbucket.org/jmdusal/kauswagan-web/src/master/",
@@ -56,7 +56,7 @@ const INFO = {
 		{
 			title: "StrymGlobal Website",
 			description:
-				"A website can send emails with file upload and can also send messages to the employer of strymglobal.",
+				"Develop a website that can send emails with file uploads and also allows users to send messages to the employer at Strymglobal.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://bitbucket.org/jmdusal/strymglobal/src/master/",
@@ -65,7 +65,7 @@ const INFO = {
 		{
 			title: "E-Barangay Content Management System",
 			description:
-				"Includes news, stories, images, and videos from all barangays in Municipality.",
+				"Develop a content management system that features news, stories, images, and videos from all barangays in the municipality.",
 				// This is a standalone system built in 2 different php frameworks CodeIgniter and Laravel with 2 developers developed
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
@@ -75,16 +75,16 @@ const INFO = {
 		{
 			title: "HR App",
 			description:
-				"Contains Employee Management System, Evaluation and Ranking System, Attendance System, and Payroll System.",
+				"Develop the Employee Management System, Evaluation and Ranking System, Attendance System, and Payroll System.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://biznizaide.com/",
 		},
 
 		{
-			title: "Kure",
+			title: "Kure App",
 			description:
-				"A Project Management System automates project creation and documentation.",
+				"Maintain, update, and enhance a Project Management System that automates project creation and documentation.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://kureko.com/",
@@ -93,7 +93,7 @@ const INFO = {
 		{
 			title: "EliteInsure Registers",
 			description:
-				"An Information Management System contains all data in eliteinsure.",
+				"Maintain, update, and add new features for the information management system that contains all data on EliteInsure employees.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "http://registers-beta.onlineinsure.co.nz/",
@@ -102,28 +102,52 @@ const INFO = {
 		{
 			title: "CARRD",
 			description:
-				"An Information Management System.",
+				"Maintain, update, and enhance the information management system.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/lilypaddigital/carrd",
 		},
-
 		{
 			title: "SERPP",
 			description:
-				"An Information Management System.",
+				"Maintain, update, and enhance the information management system.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/lilypaddigital/serpp-php8",
 		},
-
 		{
 			title: "PIDS",
 			description:
-				"An Information Management System.",
+				"Maintain, update, and enhance the information management system.",
+
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/lilypaddigital/pids-php8",
+		},
+        {
+			title: "HEQS Career",
+			description:
+				"Maintain, update, and enhance the job application system.",
+			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://bitbucket.org/heqs-furniture/heqs_careers_server/src/master/",
+		},
+        {
+			title: "HEQS Wholesale",
+			description:
+				"Maintain, update, and enhance a B2B wholesale e-commerce platform.",
+                // HEQS Wholesale is a dedicated B2B wholesale platform that seamlessly integrates a user-friendly front-end with a backend CRM system. My role here involves several key tasks, Implementing comprehensive unit tests for all functions to ensure code reliability and performance. Incorporating Swagger UI to visualize and interact with the API’s resources. Identifying and resolving bugs to maintain system stability and efficiency.
+			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://www.heqswholesales.com.au/",
+		},
+        {
+			title: "Priceworth",
+			description:
+				"Adding Jest tests for all functions in the B2B e-commerce platform.",
+			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/jmdusal/priceworth",
 		},
 	],
 };

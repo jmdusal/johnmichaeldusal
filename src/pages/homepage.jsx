@@ -13,13 +13,13 @@ import { Helmet } from "react-helmet";
 // import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
-import Article from "../components/homepage/article";
-import Works from "../components/homepage/works";
+// import Article from "../components/homepage/article";
+// import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import myArticles from "../data/articles";
+// import myArticles from "../data/articles";
 
 import "./styles/homepage.css";
 
@@ -104,9 +104,12 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											// src="/homepage.jpg"
+                                            src={`${process.env.PUBLIC_URL}/homepage.jpg`}
+                                            // src={homepageImage}
 											alt="about"
 											className="homepage-image"
+                                            // onError={() => console.error('Error loading image')}
 										/>
 									</div>
 								</div>
