@@ -18,23 +18,14 @@ const INFO = {
 	homepage: {
 		title: "John Michael R. Dusal",
 		description:
-			"I am a web developer with expertise in Laravel framework. I have experience in building scalable, secure and reliable web applications using laravel framework. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
-
-			// Innovative, task-driven with 2 years and 7 months of experience in web development, Proficient in developing web applications, testing codes, simple/complex issues, and implementing new features based on user feedback.
-			// Innovative, task-driven with 2 years and 7 months of experience in web development, Proficient in developing web applications, I enjoy solving simple/complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.
-
-
-
-			// I am a web developer with expertise in Laravel framework. I have experience in building scalable, secure and reliable web applications using laravel framework. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.
-
+			"I am a web developer with 4 years and 9 months of professional experience, specializing in the Laravel framework. I have built scalable, secure, and reliable web applications that meet industry standards and best practices. I enjoy solving complex problems and continuously learning new skills to stay ahead in the field. My passion lies in writing high-quality code and contributing to impactful projects. I am always seeking new challenges and opportunities to grow as a developer.",
+			// "I am a web developer with expertise in Laravel framework. I have experience in building scalable, secure and reliable web applications using laravel framework. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
 		title: "I’m John Michael R. Dusal ",
 		description:
 			"I've worked on a variety of projects over 2 years and 7 months and I'm proud of the progress I've made. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-
-			// Innovative, task-driven with 2 years and 7 months of experience in web development, Proficient in developing web applications, testing codes, simple/complex issues, and implementing new features based on user feedback.
 	},
 
 	articles: {
@@ -148,6 +139,14 @@ const INFO = {
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/jmdusal/priceworth",
+		},
+		{
+			title: "V-Unite",
+			description:
+				"Migrated Java + Vue into a modern Laravel + Vue + TypeScript stack, ensuring smooth migration, reliable performance, and efficient integration between front‑end and back‑end.",
+			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://vunite-ng-stage.v-unite.com/",
 		},
 	],
 };
